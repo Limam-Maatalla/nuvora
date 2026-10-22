@@ -1,0 +1,1 @@
+export const analyticsConfig = { provider: 'mock', apiBaseUrl: import.meta.env.VITE_ANALYTICS_API_URL || '', requestTimeoutMs: 10000 };
